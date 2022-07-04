@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/vista/PracInicio.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/modelo/ListaPublicacion.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/Excepciones/ExcepcionLectura.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/modelo/Publicacion.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/vista/VistaConsola.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/Excepciones/ExcepcionArchivo.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/Excepciones/ExcepcionEscritura.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/persistencia/IPublicacionDao.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/vista/Principal.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/vista/GuiRegistro.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/vista/GuiRegistroAL.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/persistencia/ArrayListPublicacion.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/utilidades/Consola.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/vista/GuiRegistroL.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/modelo/Libro.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/modelo/AudioLibro.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/persistencia/ImpArchivoObjeto.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/persistencia/ImpArchivoTexto.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/2022-I-Practica-final-master/src/co/edu/unicesar/vista/Mensaje.java</file>
+        </group>
+    </open-files>
+</project-private>
